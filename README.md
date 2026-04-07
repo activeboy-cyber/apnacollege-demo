@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Repository.
-Author-Himek 
+Author-Himek (apna college)
